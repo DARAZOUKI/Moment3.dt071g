@@ -1,0 +1,14 @@
+C:\Moment3.dt071g\MyGuestBookApp\bin\Debug\net8.0\MyGuestBookApp.exe
+C:\Moment3.dt071g\MyGuestBookApp\bin\Debug\net8.0\MyGuestBookApp.deps.json
+C:\Moment3.dt071g\MyGuestBookApp\bin\Debug\net8.0\MyGuestBookApp.runtimeconfig.json
+C:\Moment3.dt071g\MyGuestBookApp\bin\Debug\net8.0\MyGuestBookApp.dll
+C:\Moment3.dt071g\MyGuestBookApp\bin\Debug\net8.0\MyGuestBookApp.pdb
+C:\Moment3.dt071g\MyGuestBookApp\obj\Debug\net8.0\MyGuestBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Moment3.dt071g\MyGuestBookApp\obj\Debug\net8.0\MyGuestBookApp.AssemblyInfoInputs.cache
+C:\Moment3.dt071g\MyGuestBookApp\obj\Debug\net8.0\MyGuestBookApp.AssemblyInfo.cs
+C:\Moment3.dt071g\MyGuestBookApp\obj\Debug\net8.0\MyGuestBookApp.csproj.CoreCompileInputs.cache
+C:\Moment3.dt071g\MyGuestBookApp\obj\Debug\net8.0\MyGuestBookApp.dll
+C:\Moment3.dt071g\MyGuestBookApp\obj\Debug\net8.0\refint\MyGuestBookApp.dll
+C:\Moment3.dt071g\MyGuestBookApp\obj\Debug\net8.0\MyGuestBookApp.pdb
+C:\Moment3.dt071g\MyGuestBookApp\obj\Debug\net8.0\MyGuestBookApp.genruntimeconfig.cache
+C:\Moment3.dt071g\MyGuestBookApp\obj\Debug\net8.0\ref\MyGuestBookApp.dll
